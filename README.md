@@ -4,5 +4,13 @@
 void Panzerfaust(int fire){
 	for(int i=0;i<100;i++){
 		System.out.println("");
+		
+	}
+}
+
+void novaFuncio(){
+	int i=-100;
+	while(i<0){
+		i++;
 	}
 }

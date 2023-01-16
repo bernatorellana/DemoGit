@@ -1,5 +1,6 @@
 # DemoGit
 
+
 /*
 El Panzerfaust 3 es un moderno lanzacohetes antitanque, 
 que fue desarrollado entre 1978 y 1985 bajo el nombre provisional de Panzerfaust 60/110 
@@ -13,6 +14,14 @@ los tanques soviéticos contemporáneos, reemplazando a los viejos lanzacohetes 
 void Panzerfaust(int fire){
 	for(int i=0;i<100;i++){
 		System.out.println("");
+		
+	}
+}
+
+void novaFuncio(){
+	int i=-100;
+	while(i<0){
+		i++;
 	}
 }
 

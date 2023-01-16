@@ -18,8 +18,8 @@ void Panzerfaust(int fire){
 }
 
 void novaFuncio(){
-	int i=-100;
-	while(i<0){
+	int k=-100;
+	while(k>0){
 		i++;
 	}
 }

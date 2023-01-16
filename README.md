@@ -8,9 +8,11 @@ y entró en servicio con el Bundeswehr en 1992. Fue ordenado por primera vez en 
 equipar a los soldados de Alemania Occidental con un arma antitanque efectiva contra 
 los tanques soviéticos contemporáneos, reemplazando a los viejos lanzacohetes PzF 44 Lanze.
 */
+// #albion online es un mmorpg no lineal en el que escribes tu propia historia sin limitarte a seguir un camino prefijado, explora un amplio mundo abierto con cinco biomas unicos, todo cuanto hagas tendra su repercusíon en el mundo, con su economia orientada al jugador de albion los jugadores crean
 
 void Panzerfaust(int fire){
 	for(int i=0;i<100;i++){
 		System.out.println("");
 	}
 }
+
